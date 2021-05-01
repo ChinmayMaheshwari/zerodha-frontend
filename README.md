@@ -1,3 +1,14 @@
+
+# Prerequisite
+ 1. Get https://github.com/ChinmayMaheshwari/zerodha and run setup
+ 2. npm (node)
+
+# Setup
+  1. Run npm install
+  2. Run npm start
+  3. Check at http://localhost:3000/
+## Demo at http://ec2-3-19-141-59.us-east-2.compute.amazonaws.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
